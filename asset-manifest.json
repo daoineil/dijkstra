@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dijkstra/static/css/main.9f801290.css",
+    "main.js": "/dijkstra/static/js/main.d4100f7d.js",
+    "static/js/787.49c16acb.chunk.js": "/dijkstra/static/js/787.49c16acb.chunk.js",
+    "index.html": "/dijkstra/index.html",
+    "main.9f801290.css.map": "/dijkstra/static/css/main.9f801290.css.map",
+    "main.d4100f7d.js.map": "/dijkstra/static/js/main.d4100f7d.js.map",
+    "787.49c16acb.chunk.js.map": "/dijkstra/static/js/787.49c16acb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f801290.css",
+    "static/js/main.d4100f7d.js"
+  ]
+}
